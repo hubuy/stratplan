@@ -1,0 +1,2 @@
+# stratplan
+GitHub Pages
